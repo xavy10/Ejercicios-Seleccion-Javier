@@ -1,6 +1,7 @@
 Objetos-Cuadrado-Y-Cubo
 Nombre: Javier González Contreras
 Correo: javiergzcn@gmail.com
+El ejercicio fue realizado en el entorno de desarrollo de eclipse para lo cual es necesario importar el proyecto y seguir los pasos:
 Instrucciones: Para ejecutar la aplicación, nos iremos a la carpeta src, nos iremos a la carpeta modelo y correremos la clase llamada Principal, inmediatamente nos pedirá que ingresemos la medida del lado, la ingresaremos y nos aparecerá un menú con las siguientes opciones: 
 	1) Calcular el perímetro
 	2) Calcular el área
